@@ -1,8 +1,8 @@
-#**Code Book**
+**Code Book**
 
 This code book present the main steps followed in order to obtain the file "tidy_dataFinal.txt" and a detailed description of the file
 
-####**Main steps followed in order to obtain the output as presented in the script run_analysis.R:**
+**Main steps followed in order to obtain the output as presented in the script run_analysis.R:**
 
 1.Downloading the initial datasets and additional information from  
 "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" in the project folder  
@@ -18,7 +18,7 @@ This code book present the main steps followed in order to obtain the file "tidy
 - Appropriately labels the data set with descriptive variable names  
 - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject  
 
-####**Description for the file "tidy_dataFinal.txt":**
+**Description for the file "tidy_dataFinal.txt":**
 A dataset with 180 rows (coming from 30 respondents with 6 type of activity each) and 81 variables    
 **List of the variables in the dataset:**  
 **Identifiers**  

@@ -18,7 +18,7 @@ This code book present the main steps followed in order to obtain the file "tidy
 - Appropriately labels the data set with descriptive variable names  
 - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject  
 
-**Description for the file "tidy_dataFinal.txt":**
+**Description for the file "tidy_dataFinal.txt":**    
 A dataset with 180 rows (coming from 30 respondents with 6 type of activity each) and 81 variables    
 **List of the variables in the dataset:**  
 **Identifiers**  

@@ -1,8 +1,8 @@
-Getting and Cleaning data project
+**Getting and Cleaning data project**
 
 This repository contains the files needed for evaluation after following the Coursera course "Getting and Cleaning Data"
 
-There are the following files:
+**There are the following files:**  
 
 -run_analisis.R: the code used to solve the projects requests
 
